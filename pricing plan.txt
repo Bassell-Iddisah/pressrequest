@@ -1,0 +1,26 @@
+Free account(Ghs0):
+    10 Maximum reqeusts per day
+    Featured on landing page
+    No Community access
+    No Dedicated support
+    No Monthly status reports
+    No Personalised admin page
+    No personalised business page(Would rather have a pop-up modal page)
+
+Pro account(Ghs50):
+    50 Maximum reqeusts per day
+    Featured on landing page
+    Dedicated support
+    Personalised admin page
+    No Community access
+    No Monthly status reports
+    No personalised business page(Would rather have a pop-up modal page)
+
+Enterprise account(Ghs100):
+    Unlimited print reqeusts
+    Featured on landing page
+    Dedicated support
+    Personalised admin page
+    Community access
+    Monthly status reports
+    Personalised business page

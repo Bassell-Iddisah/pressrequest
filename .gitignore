@@ -1,0 +1,6 @@
+
+venv
+.env
+__pycache__
+base/static/assets
+base/static/custom/about-page/assets

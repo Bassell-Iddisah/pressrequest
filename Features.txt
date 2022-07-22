@@ -1,0 +1,12 @@
+1. Print request by customers 1
+2. Service collaboration between presses in community access 1
+3. View available/active printing presses
+4. View current available services per press. 1
+5. Maximum number of print reqeusts to a printing press per plan price.(starts at free)
+6. Currency prices should be country based.
+7. Printing press marketing
+8. Personal admin page for printing presses
+9. Press of the month awards
+10. A slider that shows what kind of account a person is currently using
+11. Credential document handling
+12. Job/Side cash feature
