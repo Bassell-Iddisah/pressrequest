@@ -1,4 +1,4 @@
-from base import create_app, db
+from base import create_app #, db
 
 
 app = create_app()

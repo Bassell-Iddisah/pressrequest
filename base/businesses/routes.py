@@ -1,8 +1,8 @@
-from flask import blueprint, request, url_for, render_template
+from flask import Blueprint, request, url_for, render_template
 
-bus = blueprint("bus", __name__)
+bus = Blueprint("bus", __name__)
 
 
-@bus.route("/")
+@bus.route("/businesses")
 def index():
 	return render_template("index.html")
